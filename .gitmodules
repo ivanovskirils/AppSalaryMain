@@ -1,0 +1,6 @@
+[submodule "AppSalaryClient"]
+	path = AppSalaryClient
+	url = https://github.com/ivanovskirils/AppSalaryClient
+[submodule "AppSalaryWebApi"]
+	path = AppSalaryWebApi
+	url = https://github.com/ivanovskirils/AppSalaryWebApi
